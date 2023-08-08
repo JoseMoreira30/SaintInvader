@@ -5,22 +5,35 @@ Space invaders type game developed by a group of five cadets (students at the Ac
 ## Features
 
 -Press Enter to Start
+
 -Press Space to shoot sardines
+
 -Press RightKey to move right
+
 -Press LeftKey to move left
 
 ## Classes
 
 **Bullet** - Represents bullets within the game
+
 **Enemies** - Contains logic for managing enemy entities
+
 **Enemy** - Defines individual enemy attributes and behaviors
+
 **Game** - Sets up the game graphics and core mechanics
+
 **Grid** - Renders the background grid lines for visual reference
+
 **Main** - Serves as the entry point for launching the game
+
 **Menu** - Handles menu-related aspects of the game
+
 **Position** - Manages the positions of various game elements
+
 **Screen** - Controls the game's screen display
+
 **Ship** - Represents the player's ship in the game
+
 **Sound** - Deals with audio aspects of the game
 
 ## Running the Program
