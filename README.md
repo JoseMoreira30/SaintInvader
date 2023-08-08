@@ -4,13 +4,13 @@ Space invaders type game developed by a group of five cadets (students at the Ac
 
 ## Features
 
--Press Enter to Start
+- Press Enter to Start
 
--Press Space to shoot sardines
+- Press Space to shoot sardines
 
--Press RightKey to move right
+- Press RightKey to move right
 
--Press LeftKey to move left
+- Press LeftKey to move left
 
 ## Classes
 
@@ -45,4 +45,4 @@ Space invaders type game developed by a group of five cadets (students at the Ac
 
 ## Next Steps
 
-Adding more game mechanics, power-ups, or levels
+- Adding more game mechanics, power-ups, or levels
